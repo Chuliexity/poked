@@ -1,0 +1,8 @@
+header{
+    margin-top: 20px ;
+    display: flex;
+    justify-content: center;
+}
+#logo{
+    width: 250px;
+}
